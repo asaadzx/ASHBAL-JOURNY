@@ -1,10 +1,5 @@
 import turtle
 
-# Set up the screen and window
-screen = turtle.Screen()
-screen.setup(width=500, height=500)
-screen.bgcolor("white")
-
 # Create a turtle object to draw the donut
 donut = turtle.Turtle()
 donut.speed(1)  # Set the speed of the drawing turtle
